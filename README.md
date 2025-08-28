@@ -15,11 +15,11 @@ I love tackling complex problems, learning new skills, and collaborating with di
 - 🎶 Music Director & Drama Head in my community  
 - 🌍 Based in Ghana  
 
-🌱 Currently learning: **Pro Front End Dev**
+🌱 Currently: 
 - 🔭 Working on: **an air-bnb project**
 - 🌍 Languages: **English and some small Spanish and German**
 - 📫 How to reach me: **jeremiahantwiyawdickson@gmail.com**
-- ⚡ Fun fact: **I am a Lead Guitarist**
+- ⚡ Fun fact: **I am a Lead Guitarist😊**
 
 ## 🛠️ Skills & Tools  
 - Microsoft Office Suite (Excel, Word, PowerPoint)  
@@ -28,15 +28,16 @@ I love tackling complex problems, learning new skills, and collaborating with di
 - Git & GitHub (version control, repo management)  
 
 ## 📚 Currently Learning  
+- Pro Front End Dev
 - UX Design Foundations (ALX)  
 - Advanced Virtual Assistance & productivity tools  
 - AI tools for structured, visual learning  
 
 ## 🌐 Connect With Me  
-- 📸 [Instagram]# *(https://www.instagram.com/jayson.jp/?hl=en)*  
+- 📸 [Instagram](#) *(https://www.instagram.com/jayson.jp/?hl=en)*  
 - 💼 [LinkedIn](#) *(www.linkedin.com/in/jeremiah-dickson-62b88121a)*  
 - 🐦 [Twitter/X](#) *(https://x.com/jeremy_jayyyyy?s=21)*  
-**[Personal Website / Blog]**(https://sites.google.com/view/papayaw/home)
+-🌐 [Personal Website / Blog](#) (https://sites.google.com/view/papayaw/home)
 
 ---
 
